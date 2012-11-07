@@ -96,14 +96,14 @@ namespace geom
            sampleRate = enDataStream.readIntLittleEndian();
 
            if (sampleRate != 44100)
-               throw new ArgumentException("Not 44100 sampling rate");
+               //throw new ArgumentException("Not 44100 sampling rate");
 
            enDataStream.readIntLittleEndian();
            enDataStream.readShortLittleEndian();
            int fmt = enDataStream.readShortLittleEndian();
 
            if (fmt != 16)
-               throw new ArgumentException("Only 16-bit signed format supported");
+               //throw new ArgumentException("Only 16-bit signed format supported");
 
            if (!enDataStream.read4ByteString().Equals("data"))
                //throw new ArgumentException("expected data tag");

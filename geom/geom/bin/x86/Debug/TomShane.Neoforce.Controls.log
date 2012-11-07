@@ -629,3 +629,93 @@ Parameter name: index
    at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
 ////////////////////////////////////////////////////////////////
 
+////////////////////////////////////////////////////////////////
+    Date: 07/11/2012 14:13:38
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Not 44100 sampling rate
+////////////////////////////////////////////////////////////////
+   at geom.WAVDecoder..ctor(String fileName) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\WAVDecoder1.cs:line 99
+   at geom.LevelManager.LoadContent() in C:\Users\Sundeep\Desktop\geomgame\geom\geom\LevelManager.cs:line 58
+   at geom.GameplayScreen.Activate(Boolean instancePreserved) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\GameplayScreen.cs:line 83
+   at geom.ScreenManager.AddScreen(GameScreen screen) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\ScreenManager.cs:line 218
+   at geom.LoadingScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\LoadingScreen.cs:line 68
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Game1.cs:line 104
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 07/11/2012 14:14:32
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Only 16-bit signed format supported
+////////////////////////////////////////////////////////////////
+   at geom.WAVDecoder..ctor(String fileName) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\WAVDecoder1.cs:line 106
+   at geom.LevelManager.LoadContent() in C:\Users\Sundeep\Desktop\geomgame\geom\geom\LevelManager.cs:line 58
+   at geom.GameplayScreen.Activate(Boolean instancePreserved) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\GameplayScreen.cs:line 83
+   at geom.ScreenManager.AddScreen(GameScreen screen) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\ScreenManager.cs:line 218
+   at geom.LoadingScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\LoadingScreen.cs:line 68
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Game1.cs:line 104
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 07/11/2012 14:16:45
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+////////////////////////////////////////////////////////////////
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at geom.LevelManager.Update(GameTime gameTime, Int32 score) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\LevelManager.cs:line 180
+   at geom.GameplayScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\GameplayScreen.cs:line 137
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Game1.cs:line 104
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomgame\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+

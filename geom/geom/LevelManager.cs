@@ -176,7 +176,7 @@ namespace geom
 
                 }
 
-
+                //Game usually crashes because its the end of the song
                 if (peaks[position] > 10)
                 {
                     //Console.WriteLine("spawn " + position);

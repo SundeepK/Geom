@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\playerSprite.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\playerSprite.xnb</Output>
       <Time>2012-09-05T18:30:40+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb</Output>
       <Time>2012-09-07T18:22:52+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb</Output>
       <Time>2012-09-08T21:29:10+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\line.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\line.xnb</Output>
       <Time>2012-09-09T18:02:38+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Deathline.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\Deathline.xnb</Output>
       <Time>2012-09-11T11:00:26+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\enemy2.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\enemy2.xnb</Output>
       <Time>2012-09-11T11:34:44+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\player copy.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\player copy.xnb</Output>
       <Time>2012-09-11T18:54:46+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\50p.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\50p.xnb</Output>
       <Time>2012-09-12T21:56:30+01:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglow.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\lineglow.xnb</Output>
       <Time>2012-09-14T20:18:20+01:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb</Output>
       <Time>2012-09-15T22:33:00+01:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\redbig.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\redbig.xnb</Output>
       <Time>2012-10-10T18:19:48+01:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb</Output>
       <Time>2012-10-10T22:56:00+01:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\background.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\background.xnb</Output>
       <Time>2012-10-16T18:35:46+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\blank.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\blank.xnb</Output>
       <Time>2012-10-16T18:35:46+01:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\gradient.xnb</Output>
       <Time>2012-10-16T18:35:46+01:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\folder.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\folder.xnb</Output>
       <Time>2012-11-01T21:47:52.6054504+00:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\music1.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\music1.xnb</Output>
       <Time>2012-11-01T21:47:52.6034503+00:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Effect.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\Effect.xnb</Output>
       <Time>2012-09-10T19:07:32+01:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb</Output>
       <Time>2012-09-16T19:23:16+01:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Blur.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\Blur.xnb</Output>
       <Time>2012-09-14T13:42:34+01:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb</Output>
       <Time>2012-09-14T17:51:22+01:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\gamefont.xnb</Output>
       <Time>2012-10-16T18:35:46+01:00</Time>
     </Item>
     <Item>
@@ -205,7 +205,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Output>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\menufont.xnb</Output>
       <Time>2012-10-16T18:35:46+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -214,10 +214,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geomContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geomContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Sundeep\Desktop\geomgame\geom\geomContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sundeep\Desktop\geomgame\geom\geom\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sundeep\Desktop\geomgame\geom\geomContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sundeep\Desktop\geomgame\geom\geom\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
