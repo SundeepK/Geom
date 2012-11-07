@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>playerSprite.png</Source>
+      <Name>playerSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\playerSprite.xnb</Output>
+      <Time>2012-09-05T18:30:38.7076+01:00</Time>
+    </Item>
+    <Item>
+      <Source>basicEnemy.png</Source>
+      <Name>basicEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb</Output>
+      <Time>2012-09-07T18:22:50.0908+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Defaultbullet.png</Source>
+      <Name>Defaultbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb</Output>
+      <Time>2012-09-08T21:29:08.3418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\line.xnb</Output>
+      <Time>2012-09-09T18:02:37.3516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Deathline.png</Source>
+      <Name>Deathline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Deathline.xnb</Output>
+      <Time>2012-09-11T11:00:25.5806+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy2.png</Source>
+      <Name>enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\enemy2.xnb</Output>
+      <Time>2012-09-11T11:34:43.2456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player copy.png</Source>
+      <Name>player copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\player copy.xnb</Output>
+      <Time>2012-09-11T18:54:45.368+01:00</Time>
+    </Item>
+    <Item>
+      <Source>50p.png</Source>
+      <Name>50p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\50p.xnb</Output>
+      <Time>2012-09-12T21:56:28.783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect.fx</Source>
+      <Name>Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Effect.xnb</Output>
+      <Time>2012-09-10T19:07:30.349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomEffect.fx</Source>
+      <Name>BloomEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb</Output>
+      <Time>2012-09-16T19:23:15.015+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blur.fx</Source>
+      <Name>Blur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Blur.xnb</Output>
+      <Time>2012-09-14T13:42:32.0838+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CombineBloom.fx</Source>
+      <Name>CombineBloom</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb</Output>
+      <Time>2012-09-14T17:51:20.282+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lineglow.png</Source>
+      <Name>lineglow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglow.xnb</Output>
+      <Time>2012-09-14T20:18:18.387+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lineglowsmall.png</Source>
+      <Name>lineglowsmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb</Output>
+      <Time>2012-09-15T22:32:58.423+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\downcut.wav</Source>
+      <Name>audio\downcut</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\downcut.xnb</Output>
+      <Time>2012-10-08T13:58:30.092+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\Derezzed.wav</Source>
+      <Name>audio\Derezzed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Derezzed.xnb</Output>
+      <Time>2012-10-08T14:55:19.621+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\stars.wav</Source>
+      <Name>audio\stars</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\stars.xnb</Output>
+      <Time>2012-10-08T18:22:48.67+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\everlong.wav</Source>
+      <Name>audio\everlong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\everlong.xnb</Output>
+      <Time>2012-10-08T18:37:57.642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\counting.wav</Source>
+      <Name>audio\counting</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\counting.xnb</Output>
+      <Time>2012-10-08T18:55:57.051+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\hitme.wav</Source>
+      <Name>audio\hitme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\hitme.xnb</Output>
+      <Time>2012-10-08T19:09:36.427+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\dance.wav</Source>
+      <Name>audio\dance</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\dance.xnb</Output>
+      <Time>2012-10-09T11:56:13.1444+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\rock.wav</Source>
+      <Name>audio\rock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\rock.xnb</Output>
+      <Time>2012-10-09T12:12:28.5664+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\tech.wav</Source>
+      <Name>audio\tech</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\tech.xnb</Output>
+      <Time>2012-10-09T20:16:56.467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\AERO.wav</Source>
+      <Name>audio\AERO</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\AERO.xnb</Output>
+      <Time>2012-10-10T13:34:59.4826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\Up.wav</Source>
+      <Name>audio\Up</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Up.xnb</Output>
+      <Time>2012-10-10T13:59:42.2366+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\cochise.wav</Source>
+      <Name>audio\cochise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\cochise.xnb</Output>
+      <Time>2012-10-10T14:28:23.9236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\Ugly.wav</Source>
+      <Name>audio\Ugly</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Ugly.xnb</Output>
+      <Time>2012-10-10T14:43:49.4786+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redbig.png</Source>
+      <Name>redbig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\redbig.xnb</Output>
+      <Time>2012-10-10T18:19:47.8996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lineglowmed.png</Source>
+      <Name>lineglowmed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb</Output>
+      <Time>2012-10-10T22:55:59.24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-10-16T18:35:44.596+01:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2012-10-16T18:35:44.598+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2012-10-16T18:35:44.601+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2012-10-16T18:35:44.599+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2012-10-16T18:35:44.603+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\down.wav</Source>
+      <Name>audio\down</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\down.xnb</Output>
+      <Extra>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\down.wma</Extra>
+      <Time>2012-10-09T16:06:48.205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\kyoto.wav</Source>
+      <Name>audio\kyoto</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\kyoto.xnb</Output>
+      <Extra>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\kyoto.wma</Extra>
+      <Time>2012-10-09T11:45:43.1734+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\quiet.wav</Source>
+      <Name>audio\quiet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\quiet.xnb</Output>
+      <Extra>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\quiet.wma</Extra>
+      <Time>2012-10-08T15:16:49.362+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CE3CBFAD-02BA-4503-A47B-864EE649183A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geomContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-14T19:37:14.9628+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

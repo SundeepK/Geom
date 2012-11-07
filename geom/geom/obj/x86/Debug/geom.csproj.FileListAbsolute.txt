@@ -1,0 +1,160 @@
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\playerSprite.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\geom.exe
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\geom.pdb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\obj\x86\Debug\geom.exe
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\obj\x86\Debug\geom.pdb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\line.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Deathline.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\player copy.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\50p.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\Blur.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglow.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\downcut.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Derezzed.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\quiet.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\stars.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\everlong.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\counting.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\hitme.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\kyoto.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\dance.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\rock.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\down.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\tech.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\AERO.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Up.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\cochise.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\Ugly.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\redbig.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\background.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\down.wma
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\kyoto.wma
+C:\Users\Sundeep\documents\visual studio 2010\Projects\geom\geom\geom\bin\x86\Debug\Content\audio\quiet.wma
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\obj\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\obj\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\playerSprite.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\line.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\Deathline.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\player copy.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\50p.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\lineglow.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\redbig.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\background.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\Blur.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\bin\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sundeep\Desktop\geom - Copy (2)\geom\geom\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\playerSprite.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\line.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\Deathline.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\player copy.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\50p.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\lineglow.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\redbig.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\background.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\Blur.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\bin\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\obj\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geom - Copy backup\geom\geom\obj\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\obj\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\obj\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\playerSprite.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\line.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\Deathline.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\player copy.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\50p.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\lineglow.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\redbig.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\background.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\Blur.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\folder.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\Content\music1.xnb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\bin\x86\Debug\TomShane.Neoforce.Controls.dll
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\playerSprite.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\basicEnemy.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Defaultbullet.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\line.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Deathline.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\player copy.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\50p.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglow.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglowsmall.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\redbig.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\lineglowmed.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\background.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\folder.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\music1.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\BloomEffect.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\Blur.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\CombineBloom.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\geom.pdb
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\bin\x86\Debug\TomShane.Neoforce.Controls.dll
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\obj\x86\Debug\geom.exe
+C:\Users\Sundeep\Desktop\geomv2main - Copy\geom\geom\obj\x86\Debug\geom.pdb

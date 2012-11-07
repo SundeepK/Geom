@@ -1,0 +1,631 @@
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:04:00
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Manager.RenderTarget has to be specified. Assign a render target or set Manager.AutoCreateRenderTarget property to true.
+////////////////////////////////////////////////////////////////
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.BeginDraw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 513
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 196
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:05:27
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Manager.EndDraw(Rectangle rect)
+   at TomShane.Neoforce.Controls.Manager.EndDraw()
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 515
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 196
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:09:25
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Manager.EndDraw(Rectangle rect)
+   at TomShane.Neoforce.Controls.Manager.EndDraw()
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 515
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 196
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:16:01
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Manager.EndDraw(Rectangle rect)
+   at TomShane.Neoforce.Controls.Manager.EndDraw()
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 517
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 196
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:27:58
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Manager.EndDraw(Rectangle rect)
+   at TomShane.Neoforce.Controls.Manager.EndDraw()
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 517
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 196
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:29:02
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin must be called successfully before End can be called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.End()
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 207
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:36:14
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 515
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 198
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:36:50
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 515
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 198
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:38:41
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Nesting more than one SpriteBatch.Begin when using a SpriteBatch with SpriteSortMode.Immediate is not allowed.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 515
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 198
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:39:12
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin cannot be called again until End has been successfully called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 516
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 198
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:39:34
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin cannot be called again until End has been successfully called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 516
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 198
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:44:18
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin cannot be called again until End has been successfully called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.BeginDraw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 516
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 197
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:44:35
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin cannot be called again until End has been successfully called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.BeginDraw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 516
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 197
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 01/11/2012 22:53:20
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin cannot be called again until End has been successfully called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState, Effect effect, Matrix transformMatrix)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Begin(SpriteSortMode sortMode, BlendState blendState, SamplerState samplerState, DepthStencilState depthStencilState, RasterizerState rasterizerState)
+   at TomShane.Neoforce.Controls.Renderer.Begin(BlendingMode mode)
+   at TomShane.Neoforce.Controls.Control.DrawControls(Renderer renderer, Rectangle rect, GameTime gameTime, Boolean firstDetach)
+   at TomShane.Neoforce.Controls.Control.PrepareTexture(Renderer renderer, GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.Draw(GameTime gameTime)
+   at TomShane.Neoforce.Controls.Manager.BeginDraw(GameTime gameTime)
+   at geom.FileBrowserScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\FileBrowserScreen.cs:line 516
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 197
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 02/11/2012 10:59:16
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin must be called successfully before a Draw can be called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.InternalDraw(Texture2D texture, Vector4& destination, Boolean scaleDestination, Nullable`1& sourceRectangle, Color color, Single rotation, Vector2& origin, SpriteEffects effects, Single depth)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Draw(Texture2D texture, Vector2 position, Nullable`1 sourceRectangle, Color color, Single rotation, Vector2 origin, Vector2 scale, SpriteEffects effects, Single layerDepth)
+   at Microsoft.Xna.Framework.Graphics.SpriteFont.InternalDraw(StringProxy& text, SpriteBatch spriteBatch, Vector2 textblockPosition, Color color, Single rotation, Vector2 origin, Vector2& scale, SpriteEffects spriteEffects, Single depth)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.DrawString(SpriteFont spriteFont, String text, Vector2 position, Color color)
+   at geom.LoadingScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LoadingScreen.cs:line 112
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 197
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 02/11/2012 10:59:55
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Begin must be called successfully before a Draw can be called.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.InternalDraw(Texture2D texture, Vector4& destination, Boolean scaleDestination, Nullable`1& sourceRectangle, Color color, Single rotation, Vector2& origin, SpriteEffects effects, Single depth)
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Draw(Texture2D texture, Vector2 position, Nullable`1 sourceRectangle, Color color, Single rotation, Vector2 origin, Single scale, SpriteEffects effects, Single layerDepth)
+   at geom.Player.Draw(GameTime gameTime, SpriteBatch spriteBatch) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Player.cs:line 126
+   at geom.LevelManager.Draw(GameTime gameTime, SpriteBatch spriteBatch) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LevelManager.cs:line 306
+   at geom.GameplayScreen.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\GameplayScreen.cs:line 176
+   at geom.ScreenManager.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 197
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at geom.Game1.Draw(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 121
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 02/11/2012 11:17:39
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Value does not fall within the expected range.
+////////////////////////////////////////////////////////////////
+   at Microsoft.Xna.Framework.Helpers.ThrowExceptionFromErrorCode(ErrorCodes error)
+   at Microsoft.Xna.Framework.Media.Song..ctor(String name, Uri uri)
+   at Microsoft.Xna.Framework.Media.Song.FromUri(String name, Uri uri)
+   at geom.LevelManager.LoadContent() in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LevelManager.cs:line 130
+   at geom.GameplayScreen.Activate(Boolean instancePreserved) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\GameplayScreen.cs:line 83
+   at geom.ScreenManager.AddScreen(GameScreen screen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 218
+   at geom.LoadingScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LoadingScreen.cs:line 68
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 106
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 02/11/2012 11:38:13
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: expected wave chunk size to be 16
+////////////////////////////////////////////////////////////////
+   at geom.WAVDecoder..ctor(String fileName) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\WAVDecoder1.cs:line 90
+   at geom.LevelManager.LoadContent() in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LevelManager.cs:line 58
+   at geom.GameplayScreen.Activate(Boolean instancePreserved) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\GameplayScreen.cs:line 83
+   at geom.ScreenManager.AddScreen(GameScreen screen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 218
+   at geom.LoadingScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LoadingScreen.cs:line 68
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 106
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 02/11/2012 11:38:41
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: expected data tag
+////////////////////////////////////////////////////////////////
+   at geom.WAVDecoder..ctor(String fileName) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\WAVDecoder1.cs:line 109
+   at geom.LevelManager.LoadContent() in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LevelManager.cs:line 58
+   at geom.GameplayScreen.Activate(Boolean instancePreserved) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\GameplayScreen.cs:line 83
+   at geom.ScreenManager.AddScreen(GameScreen screen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 218
+   at geom.LoadingScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LoadingScreen.cs:line 68
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 106
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 07/11/2012 11:16:21
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.7.2407.1915
+ Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+////////////////////////////////////////////////////////////////
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at geom.LevelManager.Update(GameTime gameTime, Int32 score) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\LevelManager.cs:line 180
+   at geom.GameplayScreen.Update(GameTime gameTime, Boolean otherScreenHasFocus, Boolean coveredByOtherScreen) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\GameplayScreen.cs:line 137
+   at geom.ScreenManager.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\ScreenManager.cs:line 134
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at geom.Game1.Update(GameTime gameTime) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Game1.cs:line 104
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at geom.Program.Main(String[] args) in C:\Users\Sundeep\Desktop\geomv2 - Copy\geom\geom\Program.cs:line 15
+////////////////////////////////////////////////////////////////
+
